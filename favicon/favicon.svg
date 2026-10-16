@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Aurora Psicologia">
+  <circle cx="32" cy="32" r="30" fill="#5F7A68"/>
+  <!-- sol nascente / folha em traco fino claro -->
+  <path d="M18 38 A14 14 0 0 1 46 38" fill="none" stroke="#FAF7F2" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M32 16 C32 24 28 30 20 34 C28 34 34 30 36 22 C37 28 35 34 44 34 C36 30 32 24 32 16 Z" fill="#FAF7F2" opacity="0.95"/>
+  <line x1="18" y1="42" x2="46" y2="42" stroke="#C9B79C" stroke-width="2" stroke-linecap="round"/>
+</svg>

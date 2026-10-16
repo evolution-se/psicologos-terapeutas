@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F1EBE0"/>
+      <stop offset="0.55" stop-color="#E8EEE7"/>
+      <stop offset="1" stop-color="#DCE5DB"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#g)"/>
+  <ellipse cx="600" cy="220" rx="220" ry="160" fill="#A8BFA9" opacity="0.35"/>
+  <ellipse cx="180" cy="820" rx="240" ry="170" fill="#C9B79C" opacity="0.30"/>
+  <g fill="none" stroke="#5F7A68" stroke-width="6" stroke-linecap="round" opacity="0.85">
+    <path d="M340 480 q60 -110 160 -130"/>
+    <path d="M340 480 q-20 -80 30 -150"/>
+    <path d="M340 480 q80 -20 140 20 q-70 30 -140 -20"/>
+    <path d="M340 480 L340 640"/>
+    <path d="M300 640 h80"/>
+  </g>
+  <g fill="none" stroke="#5F7A68" stroke-width="4" opacity="0.5">
+    <rect x="250" y="680" width="300" height="180" rx="24"/>
+  </g>
+  <text x="400" y="770" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#46594D" opacity="0.85">ambiente sereno</text>
+  <text x="400" y="805" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#66736B" opacity="0.9">placeholder ilustrativo</text>
+</svg>
