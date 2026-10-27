@@ -46,6 +46,7 @@ section{scroll-margin-top:calc(var(--header-h) + 12px)}
 .container-narrow{max-width:1200px}
 .prose{max-width:65ch}
 .text-muted-soft{color:var(--muted)}
+.img-illustrative{font-size:.85rem;color:var(--muted);font-style:italic}
 /* ---------- 3. TIPOGRAFIA ---------- */
 h1,h2,h3,.serif{font-family:var(--font-serif);color:var(--text);text-wrap:balance}
 .hero-title{font-size:clamp(2.25rem,1.35rem + 3.4vw,3.4rem);line-height:1.2;font-weight:600;letter-spacing:-.01em}
